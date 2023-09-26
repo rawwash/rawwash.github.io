@@ -440,6 +440,16 @@ h3 {
   list-style-type: disc;
   margin-left: 24px;
 }
+.map-container {
+  text-align: center; /* for older browsers and additional assurance */
+}
+
+.map-container iframe {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 
 .card ul li li {
   color: #666;
