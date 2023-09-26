@@ -454,6 +454,22 @@ h3 {
   line-height: 2.5rem;
 }
 
+.map-container {
+  position: relative;
+  width: 100%; /* it will take up the full width of its parent */
+  padding-bottom: 56.25%; /* this is based on a 16:9 aspect ratio, you can adjust it to your needs */
+  overflow: hidden;
+}
+
+.map-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100% !important;
+  height: 100% !important;
+}
+
+
 .card i.right {
   margin-left: 10px;
 }
