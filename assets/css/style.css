@@ -140,7 +140,7 @@ body {
 } */
 
 a {
-  color: #002660;
+  color: #004d40;
 }
 
 /* main blockqoute */
@@ -473,7 +473,7 @@ a.hoverline {
 } */
 
 a.hoverline:hover {
-  border-bottom: 3px solid #002660 !important;
+  border-bottom: 3px solid #004d40 !important;
 }
 
 #skills .card.large {
@@ -549,7 +549,7 @@ small {
 /* main .teal-text */
 
 .teal-text {
-  color: #50cdff !important; /* #50cdff*/
+  color: #001f86 !important; /* #50cdff*/
 }
 
 /* .teal-text {
@@ -559,7 +559,7 @@ small {
 /* .teal */
 
 .teal {
-  background-color: #50cdff !important;
+  background-color: #001f86 !important;
 }
 
 /* .teal {
